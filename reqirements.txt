@@ -1,0 +1,8 @@
+coverage
+iniconfig
+packaging
+pluggy
+pytest
+pytest-cov
+pytest-cover
+pytest-coverage
