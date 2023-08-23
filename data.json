@@ -1,0 +1,109 @@
+{
+  "phonebook": [
+    {
+      "father_name": "Андреевич",
+      "first_name": "Михаил",
+      "last_name": "Баранов",
+      "personal_phone": "+79998765252",
+      "work_phone": "+79998765252"
+    },
+    {
+      "father_name": "Васильевич",
+      "first_name": "Иван",
+      "last_name": "Иванов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Васильевич",
+      "first_name": "Иван",
+      "last_name": "Петров",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Васильевич",
+      "first_name": "Петр",
+      "last_name": "Иванов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Геннадьевич",
+      "first_name": "Михаил",
+      "last_name": "Иванов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Кузьмич",
+      "first_name": "Иван",
+      "last_name": "Михайлов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Кузьмич",
+      "first_name": "Петр",
+      "last_name": "Михайлов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Кузьмич",
+      "first_name": "Иван",
+      "last_name": "Кузьмичев",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Кузьмич",
+      "first_name": "Петр",
+      "last_name": "Иванков",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Валерьянович",
+      "first_name": "Генадий",
+      "last_name": "Петров",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Кузьмич",
+      "first_name": "Иван",
+      "last_name": "Кутузов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Кузьмич",
+      "first_name": "Иван",
+      "last_name": "Хорошов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Кузьмич",
+      "first_name": "Андрей",
+      "last_name": "Хорошов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    },
+    {
+      "father_name": "Валерьянович",
+      "first_name": "Максим",
+      "last_name": "Кузнецов",
+      "personal_phone": "+79998676543",
+      "work_phone": "=79998676543"
+    },
+    {
+      "father_name": "Андреевич",
+      "first_name": "Михаил",
+      "last_name": "Баранов",
+      "personal_phone": "+79998502717",
+      "work_phone": "+79998502717"
+    }
+  ]
+}
